@@ -3,3 +3,5 @@
 lib/
 env/
 data/
+__pycache__/
+credentials.json

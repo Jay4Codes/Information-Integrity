@@ -1,5 +1,4 @@
 streamlit
-streamlit-option-menu
 wordcloud
 matplotlib
 PyPDF2
@@ -14,3 +13,7 @@ tensorflow
 scikit-learn
 networkx
 seaborn
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+authlib
